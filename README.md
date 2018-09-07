@@ -22,6 +22,10 @@ Step 2. Add the dependency
 
 ## How to
 
+## Roadmap
+
+- Convert this lib to 100% Kotlin
+
 ## Credit
 
 ## License
