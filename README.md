@@ -26,7 +26,17 @@ Step 2. Add the dependency
 
 - Convert this lib to 100% Kotlin
 
+## Who is using us?
+
+- [#App4Autism](https://play.google.com/store/apps/details?id=vn.tientham.visualsupportforautism)
+- [#App4Timer](https://play.google.com/store/apps/details?id=tientham.androidtimer)
+- [#BluChat](https://play.google.com/store/apps/details?id=tientham.bluetoothdemo)
+- [#MovieWiki](https://play.google.com/store/apps/details?id=tientham.movie_wiki)
+
 ## Credit
+
+- Badge images are taken from: https://shields.io/#/
+- Reference for this project is: https://github.com/pedant/sweet-alert-dialog
 
 ## License
 Open Source Project
