@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="alert_width">290dp</dimen>
+    <dimen name="alert_width_large">380dp</dimen>
+
+</resources>
