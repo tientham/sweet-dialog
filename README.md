@@ -1,4 +1,5 @@
 # sweet-dialog
+![](https://img.shields.io/badge/v1.1.2-pass-blue.svg)
 ![Release](https://img.shields.io/badge/build-pass-green.svg)
 ![](https://img.shields.io/badge/dialog-lovely-orange.svg)
 ## Setup
@@ -17,7 +18,7 @@ Step 1. Add it in your root build.gradle at the end of repositories:
 Step 2. Add the dependency
 
 	dependencies {
-	        implementation 'com.github.tientham:sweet-dialog:v1.1.1'
+	        implementation 'com.github.tientham:sweet-dialog:v1.1.2'
 	}
 
 ## How to
