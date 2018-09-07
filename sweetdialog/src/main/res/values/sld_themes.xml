@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme"/>
+
+    <style name="Theme.SimpleDialogBase">
+        <item name="sldListChoiceIndicatorSingle">?android:attr/listChoiceIndicatorSingle</item>
+        <item name="sldTitleSeparatorBackground">@color/sld__holo_blue</item>
+        <item name="sldTitleSeparatorHeight">@dimen/sld__dialog_title_separator_height</item>
+        <item name="sldTitleTextStyle">@style/TextAppearance.SimpleDialog.Widget.Title</item>
+        <item name="sldMessageTextStyle">@style/TextAppearance.SimpleDialog.Widget.Message</item>
+        <item name="sldButtonTextStyle">@style/TextAppearance.SimpleDialog.Widget.Button</item>
+        <item name="sldListItemTextStyle">@style/TextAppearance.SimpleDialog.Widget.ListItem</item>
+        <item name="sldListSelectorBackground">@null</item>
+        <item name="sldButtonTopDividerBackground">@color/sld__holo_dark_divider</item>
+        <item name="sldButtonVerticalDividerBackground">@color/sld__holo_dark_divider</item>
+        <item name="sldBackgroundFull">@drawable/sad__dialog_full_holo_dark</item>
+        <item name="sldBackgroundTop">@drawable/sad__dialog_top_holo_dark</item>
+        <item name="sldBackgroundMiddle">@drawable/sad__dialog_middle_holo_dark</item>
+        <item name="sldBackgroundBottom">@drawable/sad__dialog_bottom_holo_dark</item>
+    </style>
+
+    <style name="Theme.SimpleDialog" parent="@style/Theme.SimpleDialogBase">
+        <item name="sldListChoiceIndicatorSingle">@drawable/sld__btn_radio_holo_dark</item>
+        <item name="sldListSelectorBackground">@drawable/sld__list_selector_jb_holo_dark</item>
+    </style>
+
+    <style name="Theme.SimpleDialogBase.Light">
+        <item name="sldListChoiceIndicatorSingle">?android:attr/listChoiceIndicatorSingle</item>
+        <item name="sldTitleSeparatorBackground">@color/sld__holo_blue</item>
+        <item name="sldTitleSeparatorHeight">@dimen/sld__dialog_title_separator_height</item>
+        <item name="sldTitleTextStyle">@style/TextAppearance.SimpleDialog.Light.Widget.Title</item>
+        <item name="sldMessageTextStyle">@style/TextAppearance.SimpleDialog.Light.Widget.Message</item>
+        <item name="sldButtonTextStyle">@style/TextAppearance.SimpleDialog.Light.Widget.Button</item>
+        <item name="sldListItemTextStyle">@style/TextAppearance.SimpleDialog.Light.Widget.ListItem</item>
+        <item name="sldListSelectorBackground">@null</item>
+        <item name="sldButtonTopDividerBackground">@color/sld__holo_light_divider</item>
+        <item name="sldButtonVerticalDividerBackground">@color/sld__holo_light_divider</item>
+        <item name="sldBackgroundFull">@drawable/sad__dialog_full_holo_light</item>
+        <item name="sldBackgroundTop">@drawable/sad__dialog_top_holo_light</item>
+        <item name="sldBackgroundMiddle">@drawable/sad__dialog_middle_holo_light</item>
+        <item name="sldBackgroundBottom">@drawable/sad__dialog_bottom_holo_light</item>
+    </style>
+
+    <style name="Theme.SimpleDialog.Light" parent="@style/Theme.SimpleDialogBase.Light">
+        <item name="sldListChoiceIndicatorSingle">@drawable/sld__btn_radio_holo_light</item>
+        <item name="sldListSelectorBackground">@drawable/sld__list_selector_jb_holo_light</item>
+    </style>
+
+</resources>

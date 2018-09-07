@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <dimen name="alert_width">290dp</dimen>
-    <dimen name="alert_width_large">380dp</dimen>
 
     <dimen name="sld__dialog_title_height">64dp</dimen>
     <dimen name="sld__dialog_title_separator_height">2dp</dimen>

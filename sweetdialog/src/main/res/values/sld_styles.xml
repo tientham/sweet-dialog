@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="TextAppearance"/>
+
+    <style name="TextAppearance.SimpleDialog"/>
+
+    <style name="TextAppearance.SimpleDialog.Widget"/>
+
+    <style name="TextAppearance.SimpleDialog.Widget.Title">
+        <item name="android:textColor">@color/sld__holo_blue</item>
+    </style>
+
+    <style name="TextAppearance.SimpleDialog.Widget.Message">
+        <item name="android:textColor">@color/sld__white</item>
+    </style>
+
+    <style name="TextAppearance.SimpleDialog.Widget.Button">
+        <item name="android:textColor">@color/sld__white</item>
+    </style>
+
+    <style name="TextAppearance.SimpleDialog.Widget.ListItem">
+        <item name="android:textColor">@color/sld__white</item>
+    </style>
+
+    <style name="TextAppearance.SimpleDialog.Light"/>
+
+    <style name="TextAppearance.SimpleDialog.Light.Widget"/>
+
+    <style name="TextAppearance.SimpleDialog.Light.Widget.Title">
+        <item name="android:textColor">@color/sld__holo_blue</item>
+    </style>
+
+    <style name="TextAppearance.SimpleDialog.Light.Widget.Message">
+        <item name="android:textColor">@color/sld__black</item>
+    </style>
+
+    <style name="TextAppearance.SimpleDialog.Light.Widget.Button">
+        <item name="android:textColor">@color/sld__black</item>
+    </style>
+
+    <style name="TextAppearance.SimpleDialog.Light.Widget.ListItem">
+        <item name="android:textColor">@color/sld__black</item>
+    </style>
+
+
+</resources>

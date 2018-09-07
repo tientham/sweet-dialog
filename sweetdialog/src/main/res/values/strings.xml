@@ -1,8 +1,10 @@
 <resources>
     <string name="lib_name">SweetDialog</string>
     <string name="dialog_default_title">A message</string>
-    <string name="dialog_ok">Ok</string>
+    <string name="dialog_ok">OK</string>
     <string name="dialog_cancel">Cancel</string>
     <string name="dialog_natual">Natural</string>
     <string name="loading">Loading...</string>
+
+    <string name="sld__icon_description">Dialog title icon</string>
 </resources>

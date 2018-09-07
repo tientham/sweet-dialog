@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <declare-styleable name="SimpleDialog">
+        <attr name="simpleDialogStyle" format="reference" />
+    </declare-styleable>
+
+    <declare-styleable name="SimpleDialogStyle">
+        <attr name="sldTitleTextStyle" format="reference" />
+        <attr name="sldMessageTextStyle" format="reference" />
+        <attr name="sldButtonTextStyle" format="reference" />
+        <attr name="sldListItemTextStyle" format="reference" />
+        <attr name="sldListSelectorBackground" format="reference|color|integer" />
+        <attr name="sldTitleSeparatorBackground" format="reference|color|integer" />
+        <attr name="sldTitleSeparatorHeight" format="dimension">
+            <enum name="fill_parent" value="-1" />
+            <enum name="match_parent" value="-1" />
+            <enum name="wrap_content" value="-2" />
+        </attr>
+        <attr name="sldListChoiceIndicatorSingle" format="reference" />
+        <attr name="sldButtonTopDividerBackground" format="reference|color|integer" />
+        <attr name="sldButtonVerticalDividerBackground" format="reference|color|integer" />
+        <attr name="sldBackgroundFull" format="reference|integer" />
+        <attr name="sldBackgroundTop" format="reference|integer" />
+        <attr name="sldBackgroundMiddle" format="reference|integer" />
+        <attr name="sldBackgroundBottom" format="reference|integer" />
+    </declare-styleable>
+
+</resources>

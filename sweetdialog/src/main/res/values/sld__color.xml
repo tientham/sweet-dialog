@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="sld__holo_blue">#FF33B5E5</color>
+    <color name="sld__white">#FFFFFFFF</color>
+    <color name="sld__black">#FF000000</color>
+    <color name="sld__holo_dark_divider">#FF373a3c</color>
+    <color name="sld__holo_light_divider">#FFd7d7d7</color>
+
+</resources>
