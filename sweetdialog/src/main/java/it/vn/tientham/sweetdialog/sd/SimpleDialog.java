@@ -1066,7 +1066,7 @@ public class SimpleDialog extends Dialog
         /**
          * Sets the default checked item of the single choice items.<br/>
          * This also enables callback of the
-         * {@link vn.tientham.simple_list_dialog.SimpleDialog.SingleChoiceArrayItemProvider}.
+         * {@link it.vn.tientham.sweetdialog.sd.SimpleDialog.ListProvider}.
          *
          * @param checkedItem Position of the checked item
          * @return Builder itself
@@ -1104,7 +1104,7 @@ public class SimpleDialog extends Dialog
 
         /**
          * Sets the dialog to use custom view provided by
-         * {@link vn.tientham.simple_list_dialog.SimpleDialog.ViewProvider}.
+         * {@link it.vn.tientham.sweetdialog.sd.SimpleDialog.ListProvider}.
          *
          * @param useView {@code true} if you provide a custom view for this dialog
          * @return Builder itself
@@ -1116,7 +1116,7 @@ public class SimpleDialog extends Dialog
 
         /**
          * Sets the dialog to use custom {@code ListProvider} provided by
-         * {@link vn.tientham.simple_list_dialog.SimpleDialog.ListProvider}.
+         * {@link it.vn.tientham.sweetdialog.sd.SimpleDialog.ListProvider}.
          *
          * @param useAdapter {@code true} if you provide a custom adapter for this dialog
          * @return Builder itself

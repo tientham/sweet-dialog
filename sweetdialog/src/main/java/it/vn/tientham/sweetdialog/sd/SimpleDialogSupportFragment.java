@@ -14,10 +14,10 @@ import android.support.v4.app.FragmentActivity;
 /**
  * Simple dialog fragment based on the android.support.v4 library.<br/>
  * If you use normal {@code Activity} for API level 11 and later,
- * use {@link vn.tientham.simple_list_dialog.SimpleDialogFragment} instead.
+ * use {@link it.vn.tientham.sweetdialog.sd.SimpleDialogSupportFragment} instead.
  *
  * @author Specific thanks to Soichiro Kashima
- * @see vn.tientham.simple_list_dialog.SimpleDialogFragment
+ * @see it.vn.tientham.sweetdialog.sd.SimpleDialogSupportFragment
  */
 
 public class SimpleDialogSupportFragment extends DialogFragment
