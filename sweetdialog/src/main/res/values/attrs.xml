@@ -10,8 +10,8 @@
 
         <attr name="fromDeg" format="float" />
         <attr name="toDeg" format="float" />
-        <attr name="pivotX" format="fraction" />
-        <attr name="pivotY" format="fraction" />
+        <attr name="pivotXX" format="fraction" />
+        <attr name="pivotYY" format="fraction" />
     </declare-styleable>
 
 </resources>
